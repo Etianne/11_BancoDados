@@ -39,3 +39,4 @@ for linha in aluno:
 # Confirmar e fechar a conexão
 conn.commit()
 conn.close()
+
